@@ -1,0 +1,7 @@
+D:\Krisher\Учёба\2 курс\Прикладное программирование\1 лабораторная\GitHubOne\bin\Debug\GitHubOne.exe.config
+D:\Krisher\Учёба\2 курс\Прикладное программирование\1 лабораторная\GitHubOne\bin\Debug\GitHubOne.exe
+D:\Krisher\Учёба\2 курс\Прикладное программирование\1 лабораторная\GitHubOne\bin\Debug\GitHubOne.pdb
+D:\Krisher\Учёба\2 курс\Прикладное программирование\1 лабораторная\GitHubOne\obj\Debug\GitHubOne.csprojAssemblyReference.cache
+D:\Krisher\Учёба\2 курс\Прикладное программирование\1 лабораторная\GitHubOne\obj\Debug\GitHubOne.csproj.CoreCompileInputs.cache
+D:\Krisher\Учёба\2 курс\Прикладное программирование\1 лабораторная\GitHubOne\obj\Debug\GitHubOne.exe
+D:\Krisher\Учёба\2 курс\Прикладное программирование\1 лабораторная\GitHubOne\obj\Debug\GitHubOne.pdb
