@@ -5,7 +5,8 @@ ____
 а так же среднее арифметическое их модулей.
 Дополнительно выводится произведение и частное введенных чисел.
 ____
-![Скриншот программы](https://github.com/KrisherSwage/FirstTask/raw/master/D:\Krisher\Учёба\2 курс\Прикладное программирование\1 лабораторная/GitHubOne.png)
+![GitHubOne](https://user-images.githubusercontent.com/89964564/132003788-796be1ad-e6c2-4c02-bc9a-cec7168e282e.png)
+
 ____
 Проект разрабатывался в Microsoft Visual Studio, 
 открывать следует файл Program.cs,
